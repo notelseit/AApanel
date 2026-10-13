@@ -12,4 +12,4 @@ Copy the files to the aaPanel Italian language directory:
    /www/server/panel/BTPanel/
 Change language in aaPanel:
 
-   Settings > Language > Italian 
+   Settings > Language > Italian
