@@ -1,0 +1,43 @@
+{
+  "Monitor": {
+    "System": {
+      "index_1": "Stato di monitoraggio",
+      "index_2": "Giorni di salvataggio: ",
+      "index_3": "Modifica",
+      "index_4": "Cancella log",
+      "index_5": "Inserisci il numero di giorni di conservazione",
+      "index_6": "Numero di giorni di conservazione non valido!",
+      "index_7": "Confermi la cancellazione di tutti i log del monitoraggio di sistema?",
+      "index_8": "Carico medio del server",
+      "index_9": "1 min",
+      "index_10": "5 min",
+      "index_11": "15 min",
+      "index_12": "Utilizzo delle risorse di sistema",
+      "index_13": "Dettagli di carico",
+      "index_14": "Utilizzo delle risorse del sistema: ",
+      "index_15": "Data: ",
+      "index_16": "Memoria",
+      "index_17": "I/O del disco",
+      "index_18": "Lettura",
+      "index_19": "Scrittura",
+      "index_20": "Numero di letture/scritture",
+      "index_21": "Attesa letture/scritture",
+      "index_22": "Unità: {0}/s",
+      "index_23": "I/O di rete: ",
+      "index_24": "Traffico in uscita",
+      "index_25": "Traffico in entrata",
+      "index_26": "A schermo intero",
+      "index_27": "Esci da schermo intero",
+      "index_28": "Nome del processo",
+      "index_29": "Utilizzo della CPU",
+      "index_30": "Utente di avvio",
+      "index_31": "Utilizzo della memoria",
+      "index_32": "Utilizzo del disco",
+      "index_33": "Dimensione del log del monitor: "
+    },
+    "API": {
+      "system_1": "Impostazione dello stato di monitoraggio, attendere ...",
+      "system_2": "Cancellazione dei dati di monitoraggio, attendi..."
+    }
+  }
+}
