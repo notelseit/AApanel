@@ -4,12 +4,14 @@ aaPanel Italian Language version
 How to Install
 Clone the repository
 
-git clone https://github.com/notelseit/aapanel-lang-it
+git clone https://github.com/notelseit/AApanel
+
 Or download the ZIP file and extract it manually.
 
 Copy the files to the aaPanel Italian language directory:
 
    /www/server/panel/BTPanel/
+   
 Change language in aaPanel:
 
    Settings > Language > Italian
