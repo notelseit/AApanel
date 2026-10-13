@@ -1,2 +1,6 @@
 # AApanel
-AApanel Italian Language
+AApanel Italian Language 
+
+# Installation
+
+git
