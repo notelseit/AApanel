@@ -126,7 +126,7 @@
       "index_12": "Quota di capacità corrente: {0}"
     },
     "Terminal": {
-      "index_1": "La connessione è stata scollegata, premendo ENTER tenterà di riconnettersi!",
+      "index_1": "La connessione è stata scollegata, premendo INVIO tenterà di riconnettersi!",
       "index_2": "Cercando di riconnettersi!"
     },
     "Upload": {
