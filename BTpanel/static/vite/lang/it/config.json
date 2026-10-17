@@ -76,7 +76,7 @@
       "index_70": "Le password immesse due volte sono incoerenti",
       "index_71": "Associa account aaPanel",
       "index_72": "Rimuovi associazione",
-      "index_73": "La maggior parte delle funzioni del panel si basa sui servizi cloud (applicazione del certificato, acquisto di prodotti, elenco di software, ecc.).",
+      "index_73": "La maggior parte delle funzioni del pannello dipende dai servizi cloud (richiesta di certificati, acquisto di prodotti, elenco software, ecc.).",
       "index_74": "Rimuovi associazione account aaPanel",
       "index_75": "Sboglia l'account aaPanel e continua!",
       "index_76": "Barra di menu nascosta",
@@ -278,7 +278,7 @@
       "index_169": "Si prega di leggere e accettare il rischio",
       "Ssl": {
         "index_1": "Richiedi e distribuisci un certificato SSL sicuro per il panel tramite il Domain Management Center, supporta il rinnovo automatico prima della scadenza",
-        "index_2": "Metodo dell'applicazione",
+        "index_2": "Metodo di richiesta del certificato",
         "index_3": "Attraverso Domain Management Center",
         "index_4": "Dominio del pannello",
         "index_5": "Inserisci il dominio del panel",

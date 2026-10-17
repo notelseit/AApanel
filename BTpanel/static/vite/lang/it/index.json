@@ -470,7 +470,7 @@
   "If the limit is exceeded, PM2 will automatically restart the project, System memory is {0}MB": "Se il limite viene superato, PM2 riavvierà automaticamente il progetto e la memoria del sistema sarà {0}MB",
   "If the number of instances is greater than 1, cluster mode will be enabled": "Se il numero di istanze è superiore a 1, la modalità cluster è attivata",
   "If the pm2 project cannot load monitoring information, you can try to modify the node command line version number and try again": "Se il progetto pm2 non riesce a caricare le informazioni di monitoraggio, è possibile provare a modificare il numero di versione della riga di comando del nodo e riprovarlo.",
-  "If you are not clear about the port, you can leave it blank": "Se non conosci il porto, lascialo vuoto.",
+  "If you are not clear about the port, you can leave it blank": "Se non conosci la porta, lascia il campo vuoto.",
   "Load balancing: After cluster mode is enabled, load will be automatically balanced according to the number of instances": "Bilanciamento del carico: una volta attivata la modalità cluster, il carico viene bilanciato automaticamente in base al numero di istanze",
   "Memory Limit": "Limite di memoria",
   "Modify the cluster status": "Modificare lo stato del cluster",

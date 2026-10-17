@@ -175,7 +175,7 @@
         "index_16": "Salva configurazione del contenitore",
         "index_17": "Seleziona l'immagine",
         "index_18": "Inserisci IP corretto",
-        "index_19": "Il porto locale non può essere vuoto",
+        "index_19": "La porta locale non può essere vuota",
         "index_20": "Inserisci la gamma di porte locali corretta",
         "index_21": "La porta del contenitore non può essere vuota",
         "index_22": "Inserisci la gamma di porte del contenitore corretta",
@@ -837,7 +837,7 @@
     "api": {
       "index_1": "Contenitori di pulizia, per favore aspetta ...",
       "index_2": "Impostazione dello stato del contenitore, attendere ...",
-      "index_3": "Impostazione dell'osservazione del contenitore, per favore attendi ...",
+      "index_3": "Impostazione della nota del container, attendi...",
       "index_4": "Aggiunta di contenitore, aspetta ...",
       "index_5": "Container di modifica, per favore aspetta ...",
       "index_6": "Recupero, per favore aspetta ...",

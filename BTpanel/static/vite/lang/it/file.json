@@ -472,7 +472,7 @@
     "recycle": {
       "title": "Cestino",
       "fileRecycleBin": "Cestino dei file",
-      "databaseRecycleBin": "DATABASE RECYCLE BIN",
+      "databaseRecycleBin": "Cestino dei database",
       "warning": "ATTENZIONE: i file rimossi non possono essere ripristinati se la funzione di bidone di riciclo viene disattivata!",
       "emptyRecycleBin": "Svuota cestino",
       "all": "Tutto",
@@ -638,7 +638,7 @@
     "title": "Editor di testo online",
     "save": "Salva",
     "saveAll": "Salva tutto",
-    "refresh": "Rinfrescare",
+    "refresh": "Aggiorna",
     "search": "Ricerca",
     "replace": "Sostituire",
     "jumpLine": "Linea di salto",
